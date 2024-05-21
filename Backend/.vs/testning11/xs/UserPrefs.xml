@@ -1,27 +1,30 @@
 ﻿<Properties StartupConfiguration="{C9C825BF-9CE6-495F-AD18-85BEF152BA43}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Remo­ve­Bad­Words.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CreateMockUsers.cs">
     <Files>
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="json/bad-words.json" Line="1" Column="1" />
-      <File FileName="json/mock-users.json" Line="1" Column="1" />
-      <File FileName="IsPas­sword­GoodE­nough.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" />
+      <File FileName="json/bad-words.json" />
+      <File FileName="json/mock-users.json" />
+      <File FileName="IsPas­sword­GoodE­nough.cs" />
       <File FileName="Remo­ve­Bad­Words.cs" Line="1" Column="1" />
+      <File FileName="CreateMockUsers.cs" Line="85" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="testning11" expanded="True">
-            <Node name="testning11" expanded="True" />
+          <Node name="testning11">
+            <Node name="testning11">
+              <Node name="Remo­ve­Bad­Words.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.testning11 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.testning11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
